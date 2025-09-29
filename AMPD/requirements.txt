@@ -1,7 +1,9 @@
+python-dotenv
+PyMuPDF
 langchain
+langchain-core
+langchain-community
 langchain-openai
 chromadb
-pypdf
-pymupdf
-python-dotenv
 tiktoken
+openai
